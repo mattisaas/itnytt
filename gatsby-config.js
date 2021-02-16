@@ -12,7 +12,7 @@ module.exports = {
       options: {
         typeName: 'WPGraphQL',
         fieldName: 'wpgraphql',
-        url: 'https://itnytt.no/graphql',
+        url: 'https://create.itnytt.no/graphql',
       }
     }
   ],
